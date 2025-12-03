@@ -1,6 +1,6 @@
 # 📈 S&P 500 Returns Prediction Model
 
-**Predicting Stock Market Returns Using Economic Indicators**
+**Predicting Stock Market Returns Using Macroeconomic Indicators**
 
 This project uses machine learning to predict S&P 500 year-over-year returns based on key economic indicators and monetary policy conditions.
 
